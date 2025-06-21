@@ -27,7 +27,7 @@ function App() {
 
         {/* QR Code Section */}
         <div style={{ margin: '20px 0' }}>
-          <p><strong>Scan the QR Code below to pay ₹19:</strong></p>
+          <p><strong>Scan the QR Code below to pay ₹10 per each unit:</strong></p>
           <img
             src={qrImage}
             alt="Payment QR Code"
@@ -54,12 +54,12 @@ function App() {
         </div>
 
         <ol style={{ textAlign: 'left', maxWidth: '600px', margin: '0 auto' }}>
-          <li>Or directly pay ₹19 to this number: <strong>9392316592</strong></li>
+          <li>Or directly pay ₹10 per 1 unit to this number: <strong>9392316592</strong></li>
           <li>Send the payment screenshot to WhatsApp: <strong>9392316592</strong></li>
           <li>Mention the <strong>subject</strong> and <strong>unit</strong> you want.</li>
           <li>I will share the PDF with you on WhatsApp.</li>
           <li>
-            <strong>Each subject costs ₹19</strong>. For example, if you want 3 subjects, pay ₹57,
+            <strong>Each subject costs ₹10 per each unit</strong>. For example, if you want 5 units of a subject, pay ₹50,
             send the screenshot, and mention the subject and unit names.
           </li>
         </ol>
@@ -72,12 +72,12 @@ function App() {
 
         <h3>IN TELUGU:</h3>
         <ol style={{ textAlign: 'left', maxWidth: '600px', margin: '0 auto' }}>
-          <li>Meeku notes PDF kaavalante ₹19 ni <strong>9392316592</strong> ki pay cheyandi.</li>
+          <li>Meeku notes PDF kaavalante ₹10 okka unit ki <strong>9392316592</strong> ki pay cheyandi.</li>
           <li>Payment screenshot ni WhatsApp lo pampandi.</li>
           <li>Meeku kavalsina subject and unit name mention cheyandi.</li>
           <li>PDF ni WhatsApp lo share chestha.</li>
           <li>
-            <strong>Each subject ₹19</strong>. Meeku 3 subjects kavali ante ₹57 pay cheyandi,
+            <strong>Each unit ₹1</strong>. Meeku 5 units kavali ante ₹50 pay cheyandi,
             screenshot pettandi, subject name with units mention cheyandi.
           </li>
         </ol>
