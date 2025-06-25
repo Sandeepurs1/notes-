@@ -54,7 +54,7 @@ function App() {
         </div>
 
         <ol style={{ textAlign: 'left', maxWidth: '600px', margin: '0 auto' }}>
-          <li>Or directly pay ₹10 per 1 unit to this number: <strong>9392316592</strong></li>
+          <li>Or directly pay ₹10 per 1 unit to this number ,incase any issue occurs pay to scanner or directly message me in whatsapp: <strong>9392316592</strong></li>
           <li>Send the payment screenshot to WhatsApp: <strong>9392316592</strong></li>
           <li>Mention the <strong>subject</strong> and <strong>unit</strong> you want.</li>
           <li>I will share the PDF with you on WhatsApp.</li>
@@ -73,11 +73,11 @@ function App() {
         <h3>IN TELUGU:</h3>
         <ol style={{ textAlign: 'left', maxWidth: '600px', margin: '0 auto' }}>
           <li>Meeku notes PDF kaavalante ₹10 okka unit ki <strong>9392316592</strong> ki pay cheyandi.</li>
-          <li>Payment screenshot ni WhatsApp lo pampandi.</li>
+          <li>Payment screenshot ni WhatsApp lo pampandi.m aina payment issue vasthe scanner ki pay cheyandi..or wtsapp lo message cheyandi</li>
           <li>Meeku kavalsina subject and unit name mention cheyandi.</li>
           <li>PDF ni WhatsApp lo share chestha.</li>
           <li>
-            <strong>Each unit ₹1</strong>. Meeku 5 units kavali ante ₹50 pay cheyandi,
+            <strong>Each unit ₹10</strong>. Meeku 5 units kavali ante ₹50 pay cheyandi,
             screenshot pettandi, subject name with units mention cheyandi.
           </li>
         </ol>
