@@ -75,7 +75,7 @@ function App() {
           <li>Meeku notes PDF kaavalante ₹10 okka unit ki <strong>9392316592</strong> ki pay cheyandi.</li>
           <li>Payment screenshot ni WhatsApp lo pampandi.m aina payment issue vasthe scanner ki pay cheyandi..or wtsapp lo message cheyandi</li>
           <li>Meeku kavalsina subject and unit name mention cheyandi.</li>
-          <li>PDF ni WhatsApp lo share chestha.</li>
+          <li>PDF ni WhatsApp lo share chestha..</li>
           <li>
             <strong>Each unit ₹10</strong>. Meeku 5 units kavali ante ₹50 pay cheyandi,
             screenshot pettandi, subject name with units mention cheyandi.
