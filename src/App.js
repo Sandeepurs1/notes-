@@ -27,7 +27,7 @@ function App() {
 
         {/* QR Code Section */}
         <div style={{ margin: '20px 0' }}>
-          <p><strong>Scan the QR Code below to pay ₹15 per each unit:</strong></p>
+          <p><strong>Scan the QR Code below to pay ₹10 per each unit:</strong></p>
           <img
             src={qrImage}
             alt="Payment QR Code"
